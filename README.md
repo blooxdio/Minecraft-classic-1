@@ -1,6 +1,6 @@
 # Minecraft classic Open source
 This Project is a clone for classic.minecraft.net.
-Owner of this Repo (*CodeWhiteWeb*) doesn't have any rights to this project. 
+Owner of this Repo (*SajagIN*) doesn't have any rights to this project. 
 
 # Minecraft Classic Reversed
 This is a project meant to document the functions and code of classic.minecraft.net.
